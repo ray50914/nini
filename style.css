@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+}
+
+.block{
+  color: aquamarine;
+  background: yellow;
+}
+
+.text{
+  color: red;
+  background: brown;
+}
+
+
+.god{
+  color: white;
+  background: black;
+}
+
+
+.ray{
+  color: black;
+  background: red;
+}
+
+.image{
+  width: 200px;
+}
+
+
+
+.nini{
+  color: blanchedalmond;
+}
